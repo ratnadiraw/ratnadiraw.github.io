@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Under Construction
+title: 
 permalink: /
 subtitle: Site Transformation Underway....
 

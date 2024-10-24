@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ratnadira Widyasari # the website title (if blank, full name will be used instead)
-first_name: Under
+title: Under Construction # the website title (if blank, full name will be used instead)
+first_name: Ratnadira
 middle_name: 
-last_name: Construction
+last_name: Widyasari
 email: ratnadiraw.2020@phdcs.smu.edu.sg
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
