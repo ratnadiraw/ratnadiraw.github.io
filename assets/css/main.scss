@@ -141,6 +141,20 @@ a:focus {
   margin-bottom: 1.5rem;
 }
 
+.profile-card__recruiting {
+  font-size: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.25rem;
+  background: rgba(48, 86, 211, 0.06);
+  border: 1px solid var(--border-color);
+  border-left: 4px solid var(--accent-color);
+  border-radius: 8px;
+}
+
+.profile-card__recruiting p {
+  margin: 0;
+}
+
 .profile-card__facts {
   list-style: none;
   padding: 0;
