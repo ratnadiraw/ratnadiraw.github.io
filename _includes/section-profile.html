@@ -55,6 +55,9 @@
         {%- if profile.about -%}
           <p class="profile-card__about">{{ profile.about }}</p>
         {%- endif -%}
+        {%- if profile.recruiting -%}
+          <div class="profile-card__recruiting">{{ profile.recruiting | markdownify }}</div>
+        {%- endif -%}
         <ul class="profile-card__facts">
           {%- if profile.email -%}
             <li><strong>Email:</strong> <a href="mailto:{{ profile.email }}">{{ profile.email }}</a></li>

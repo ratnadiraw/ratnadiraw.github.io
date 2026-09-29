@@ -16,9 +16,11 @@ about: >
   Her work has been deployed in collaboration with a government agency, where it uncovered 
   previously unknown security vulnerabilities, several of which have been assigned CVE IDs. 
 
-  📢 I'm recruiting PhD and MSc students! I'm looking for motivated PhD students to join my group 
+# Highlighted box shown below the "about" paragraph. Supports Markdown.
+recruiting: >
+  📢 **I'm recruiting PhD and MSc students!** I'm looking for motivated PhD students to join my group 
   at the University of Victoria for September 2027. If you're interested in AI for software engineering, 
-  software quality assurance, or explainable AI, see details here.
+  software quality assurance, or explainable AI, see details [here](/prospective-students/).
 
 interests:
   - Software Engineering
