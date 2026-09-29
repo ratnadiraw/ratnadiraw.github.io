@@ -1,20 +1,24 @@
 name: "Ratnadira Widyasari"
-title: "Research Scientist"
-affiliation: "School of Computing and Information Systems"
-location: "Singapore"
-email: "ratnadiraw.2020@phdcs.smu.edu.sg"
+title: "Assistant Professor"
+affiliation: "University of Victoria"
+location: "Canada"
+email: "ratnadiraw@uvic.ca"
 website: "https://ratnadiraw.github.io"
 # pronouns: "she/her"
 photo: "/assets/img/profile.jpg"
 about: >
-  Dr. Ratnadira Widyasari received her Ph.D. from Singapore Management University, 
-  where she was advised by ACM/IEEE Fellow Professor David Lo. Her research focuses 
+  Ratnadira Widyasari is an Assistant Professor in the Department of Computer Science 
+  at the University of Victoria. She received her Ph.D. from Singapore Management University, 
+  where she was advised by Professor David Lo. Her research focuses 
   on advancing software quality assurance through automation and explainability. 
   She has led and conducted research resulting in publications in top-tier venues, 
   including conferences such as ICSE and FSE, and journals such as TSE, TOSEM, and EMSE. 
   Her work has been deployed in collaboration with a government agency, where it uncovered 
   previously unknown security vulnerabilities, several of which have been assigned CVE IDs. 
-  
+
+  📢 I'm recruiting PhD and MSc students! I'm looking for motivated PhD students to join my group 
+  at the University of Victoria for September 2027. If you're interested in AI for software engineering, 
+  software quality assurance, or explainable AI, see details here.
 
 interests:
   - Software Engineering
@@ -31,7 +35,7 @@ social:
     url: "https://scholar.google.com/citations?user=Efvi5TYAAAAJ&hl=en"
   - id: dblp
     label: "Email"
-    url: "mailto:ratnadiraw.2020@phdcs.smu.edu.sg"
+    url: "mailto:ratnadiraw@uvic.ca"
   - id: github
     label: "GitHub"
     url: "https://github.com/ratnadiraw"
