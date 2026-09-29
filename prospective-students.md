@@ -18,9 +18,9 @@ My group explores how artificial intelligence can make software more reliable, m
 * Software quality assurance and testing
 * Large language models and AI agents for software engineering tools
 * Explainable AI for developers
-* Faithful explanations: making sure what an AI tool says matches why it actually made its decision
-* Adaptive assistance that fits each developer's experience, needs, and working style
-* Developer trust and reliance on AI, including helping developers know when to accept AI suggestions and when to question them
+* Faithful explanations (i.e., making sure what an AI tool says matches why it actually made its decision)
+* Adaptive assistance
+* Developer trust and reliance on AI
 
 You don't need experience in all of these. A strong interest in one area and a willingness to learn go a long way!
 
@@ -30,7 +30,7 @@ I aim to build a supportive, collaborative group where students feel comfortable
 
 ## How to apply
 
-Email me at [ratnadiraw@uvic.ca](mailto:ratnadiraw@uvic.ca) with the subject line "Prospective PhD/MSc Student – [Your Name]". Please attach your CV and transcripts, and include a few sentences about your research interests and why you'd like to join the group.
+Email me at [ratnadiraw@uvic.ca](mailto:ratnadiraw@uvic.ca) with the subject line "Prospective PhD/MSc Student - [Your Name]". Please attach your CV and include a few sentences about your research interests and why you'd like to join the group.
 
 </div>
 </section>
